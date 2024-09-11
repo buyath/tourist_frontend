@@ -1,2 +1,2 @@
 # Tourism website
-[Link](https://buyath.github.io/tourist_frontend/)
+[Link](https://buyath.github.io/tourist_web/)
