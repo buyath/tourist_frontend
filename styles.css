@@ -47,6 +47,7 @@ nav ul {
 nav ul li a {
     /* Colors used - white*/
     transition: background-color 0.3s ease, transform 0.3s ease;
+    text-decoration: none;
 }
 
 /* Hero Section */
